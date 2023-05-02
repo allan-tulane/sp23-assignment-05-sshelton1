@@ -18,7 +18,12 @@ def reachable(graph, start_node):
     frontier = set([start_node])
     while len(frontier) != 0:
         ###TODO
-        pass
+        current = frontier.pop()
+        adjacent = graph[current]
+        frontier.update(adjacent)
+        frontier.difference_update(result)
+        result.update(adjacent)
+    result = sorted(list(result))
     return result
 
 def test_reachable():
