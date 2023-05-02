@@ -1,7 +1,7 @@
 # CMPS 2200 Assignment 5
 ## Answers
 
-**Name:**_Shayne Shelton________
+**Name:**__Shayne Shelton________
 
 
 Place all written answers from `assignment-05.md` here for easier grading.
@@ -39,23 +39,4 @@ Place all written answers from `assignment-05.md` here for easier grading.
   
   W => O(n)
   S => O(n)
-
-- **3a.**
-  
-
-
-
-
-
-
-- **3b.**
-
-
-
-
-
-
-- **3c.**
-
-
 
